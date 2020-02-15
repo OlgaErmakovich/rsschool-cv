@@ -8,7 +8,7 @@ In my work I spend a lot of time on testing and creating tasks for programmers. 
 that I'll enjoy it. I hope, that my new knowledge in html and JavaScript can help me achieve my goals. I have a lot of motivation to learn programming languages and I believe, that 
 RS School will be my first step to my new professional sphere.
 My personal qualities as attentiveness, diligence, self-discipline and sense of beauty are the most suitable for front-end developer. 
-4. I have basic skills in html, JavaScript, know how to use Git as a version control instrument.
+4. I have basic skills in html, JavaScript, know how to use Git as a version control instrument. I am interested in all kinds of front-end technologies.
 5. 
 ```
 if (isAwesome){
