@@ -1,0 +1,22 @@
+div {
+   width: 1024px;
+   text-align: left;
+   text-align: justify;
+}
+
+img {
+    height: 150px;
+    width: 120px;
+    padding-left:39px ;
+}
+#italic {
+    font-style: italic;
+}
+
+.val:hover {
+   background-color: rosybrown;
+}
+
+li {
+    font-family: georgia;
+}
